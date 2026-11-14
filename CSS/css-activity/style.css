@@ -12,20 +12,7 @@ body {
     background-color: lightcyan;
     border-radius: 4px;  
 }
-.container {
-    max-width: 1000px;
-    margin: 20px;
-    padding: 80px;
-    background-color: lightcyan;
-    border-radius: 4px;  
-}
-.container {
-    max-width: 1000px;
-    margin: 20px;
-    padding: 80px;
-    background-color: lightcyan;
-    border-radius: 4px;  
-}
+
 h1, h2 {
     color: darkblue;
     font-size: 26px;
